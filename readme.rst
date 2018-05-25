@@ -7,13 +7,11 @@ pushbullet.py
 .. image:: https://img.shields.io/coveralls/randomchars/pushbullet.py.svg?style=flat-square
     :target: https://coveralls.io/r/randomchars/pushbullet.py
 
-.. image:: https://img.shields.io/pypi/dm/pushbullet.py.svg?style=flat-square
-    :target: https://pypi.python.org/pypi?name=pushbullet.py&:action=display
-
 .. image:: https://img.shields.io/pypi/v/pushbullet.py.svg?style=flat-square
-    :target: https://pypi.python.org/pypi?name=pushbullet.py&:action=display
+    :target: https://pypi.org/project/pushbullet.py/
 
 .. image:: https://img.shields.io/pypi/l/pushbullet.py.svg
+
 
 This is a python library for the wonderful
 `Pushbullet <https://www.pushbullet.com>`__ service. It allows you to
